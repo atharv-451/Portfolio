@@ -18,6 +18,30 @@ export const Bio = {
   
 export const skills = [
   {
+    title: "Programming Languages",
+    skills: [
+      {
+        name: "C",
+        image:
+          "https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png",
+      },
+      {
+        name: "C++",
+        image:
+          "https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png",
+      },
+      {
+        name: "Python",
+        image: "https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg",
+      },
+      {
+        name: "Java",
+        image:
+          "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg",
+      },
+    ],
+  },
+  {
     title: "Frontend",
     skills: [
       {
