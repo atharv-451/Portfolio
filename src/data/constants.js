@@ -494,16 +494,16 @@ export const projects = [
   },
   {
     id: 8,
-    title: "Face Recognition",
-    date: "Jan 2021",
+    title: "Diabetes Prediction",
+    date: "Jan 2022",
     description:
-      "A Face recognition python app made with OpenCV. It uses face_recognition library to detect faces. It uses the webcam to detect faces. It also has a search bar to search for a particular face.",
+      "This project is a machine learning model for predicting diabetes based on the PIMA Diabetes Dataset. It utilizes the Support Vector Machine (SVM) algorithm for classification.",
     image:
-      "https://camo.githubusercontent.com/a8b3e1ebf26d4c95f75bc6671189a3590eb67eb8332d7c7452492990e731efb9/68747470733a2f2f77617265686f7573652d63616d6f2e696e67726573732e636d68312e707366686f737465642e6f72672f356137383335396561323762643261633232336437656662306639303831306437373930383436312f363837343734373037333361326632663633366336663735363432653637363937343638373536323735373336353732363336663665373436353665373432653633366636643266363137333733363537343733326633383339333633363339333232663332333433343333333033333339333832663333333636363330363533333636333032643331333336333632326433313331363533373264333833323335333832643334363433303633333936333635333136353334333133393265363736393636",
-    tags: ["Python", "Keras", "TensorFlow", "VGG16", "Pickle", "React"],
+      "https://firebasestorage.googleapis.com/v0/b/portfolio-bf90f.appspot.com/o/diabetes.png?alt=media&token=4de6a7e4-9ee0-44a7-98af-97d78d6495b3",
+    tags: ["Python", "Machine Learning", "Diabetes", "SVM", "Jupyter Notebook"],
     category: "machine learning",
-    github: "https://github.com/rishavchanda/Face-Recodnition-AI-with-Python",
-    webapp: "https://github.com/rishavchanda/Face-Recodnition-AI-with-Python",
+    github: "https://github.com/atharv-451/Diabetes-Prediction",
+    webapp: "https://github.com/atharv-451/Diabetes-Prediction",
   },
 ];
 
