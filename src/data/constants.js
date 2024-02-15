@@ -369,23 +369,23 @@ export const projects = [
   },
   {
     id: 1,
-    title: "Vexa",
-    date: "Oct 2022 - Present",
+    title: "Estate Nest",
+    date: "Jan-2024 - Feb-2024",
     description:
-      "Designed and developed the Vexa project, a project management app that helps users and teams stay organized and on track. Implemented key features such as task tracking, team collaboration, and time tracking to improve productivity and project outcomes and also invite team/project members. The plan is to add a community of users where they can find developers and other team members and chat system implementation.",
+      "Dynamic Real Estate Management Platform leveraging MERN stack for seamless property listing, management, and client interaction, optimizing efficiency and user experience.",
     image:
-      "https://user-images.githubusercontent.com/64485885/234916413-96296f13-fe4b-4cc4-b215-e72bd7c27928.png",
+      "https://firebasestorage.googleapis.com/v0/b/mern-estatenet.appspot.com/o/EstateNest.jpg?alt=media&token=a089f9dc-78f7-48d0-894e-7ab032d5a993",
     tags: [
       "React Js",
       "MongoDb",
       "Node Js",
       "Express Js",
       "Redux",
-      "NodeMailer",
+      "Firebase Storage",
     ],
     category: "web app",
-    github: "https://github.com/rishavchanda/Project-Management-App",
-    webapp: "https://vexa-app.netlify.app/",
+    github: "https://github.com/atharv-451/Real-Estate-MERN-App",
+    webapp: "https://estatenest-mern.onrender.com/",
   },
   {
     id: 2,
